@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\bin\Debug\UKOL_LIST_2.exe.config
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\bin\Debug\UKOL_LIST_2.exe
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\bin\Debug\UKOL_LIST_2.pdb
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\obj\Debug\UKOL_LIST_2.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\obj\Debug\UKOL_LIST_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\obj\Debug\UKOL_LIST_2.Form1.resources
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\obj\Debug\UKOL_LIST_2.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\obj\Debug\UKOL_LIST_2.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\obj\Debug\UKOL_LIST_2.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\obj\Debug\UKOL_LIST_2.exe
+C:\Users\svehl\Desktop\PRG\TRETAK\UKOL_LIST_2\obj\Debug\UKOL_LIST_2.pdb
